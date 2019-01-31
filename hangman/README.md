@@ -3,11 +3,9 @@
 Classic hangman game in terminal
 
 
-Name : Chanchana Wicha (ชาญชนะ วิชา)
-
-E-mail : north1602@gmail.com
-
-Tel : 088-261-0421
+* Name : Chanchana Wicha (ชาญชนะ วิชา)
+* E-mail : north1602@gmail.com
+* Tel : 088-261-0421
 
 
 ## Score Calculation:
